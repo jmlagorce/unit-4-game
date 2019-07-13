@@ -64,8 +64,8 @@ $(document).ready(function() {
         
         
         $(".score").html(totalNumber);
-        $(".wins").html("wins: " + wins);
-        $(".losses").html("losses: " + losses);
+        $(".wins").html("Wins: " + wins);
+        $(".losses").html("Losses: " + losses);
     })
 
    
